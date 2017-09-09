@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$username = "database username here";
-$password = "database user password";	
-$dbname = "host database name here";
+$username = "janu-dars-1";
+$password = "delete123";	
+$dbname = "jan-site";
 
 
 
